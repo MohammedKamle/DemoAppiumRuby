@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="XCUITest-AppTest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/apps/XCUITest-AppTest.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
